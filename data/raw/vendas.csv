@@ -1,0 +1,201 @@
+id_venda,id_vendedor,id_produto,data_venda,quantidade,valor_total,canal_venda,status_venda
+1001,108,106,2024-02-08,1,2797.54,Loja Online,processando
+1002,53,104,2024-02-12,1,3834.62,Loja Online,concluido
+1003,161,109,2024-03-01,4,1796.91,Loja Física,processando
+1004,85,104,2024-01-24,3,4942.63,Loja Online,concluido
+1005,174,103,2024-01-14,4,3580.97,Telefone,processando
+1006,173,108,2024-02-21,3,4890.94,Telefone,cancelado
+1007,172,106,2024-02-28,1,3436.5,Telefone,processando
+1008,187,107,2024-01-09,2,4309.18,Loja Online,cancelado
+1009,108,110,2024-02-05,1,4724.9,Loja Online,processando
+1010,185,102,2024-02-07,1,647.23,Loja Online,processando
+1011,183,101,2024-02-12,4,1153.92,Loja Online,cancelado
+1012,9,109,2024-01-18,4,3035.47,Loja Online,cancelado
+1013,187,104,2024-01-04,5,416.81,Telefone,processando
+1014,179,108,2024-01-26,1,655.79,Loja Online,processando
+1015,134,107,2024-02-18,2,4755.64,Loja Física,processando
+1016,22,110,2024-01-22,3,1244.37,Telefone,cancelado
+1017,200,110,2024-02-07,2,4247.33,Loja Física,concluido
+1018,56,106,2024-01-23,3,3806.97,Loja Online,concluido
+1019,128,110,2024-01-08,1,3744.15,Telefone,processando
+1020,32,101,2024-01-07,4,537.48,Loja Online,cancelado
+1021,191,110,2024-01-21,2,871.93,Loja Física,processando
+1022,131,101,2024-01-09,1,3947.36,Telefone,concluido
+1023,58,104,2024-01-19,3,1645.47,Loja Online,processando
+1024,160,105,2024-01-28,2,2396.78,Loja Online,concluido
+1025,7,110,2024-01-23,1,3374.25,Loja Física,concluido
+1026,109,104,2024-02-27,3,1963.34,Telefone,cancelado
+1027,190,108,2024-02-14,5,226.08,Telefone,processando
+1028,145,104,2024-01-29,5,4207.91,Loja Online,cancelado
+1029,132,103,2024-02-03,4,1004.52,Loja Física,processando
+1030,7,103,2024-02-27,4,2347.18,Loja Online,processando
+1031,144,109,2024-02-01,3,3572.03,Loja Física,processando
+1032,81,101,2024-01-08,4,2015.01,Loja Online,cancelado
+1033,189,110,2024-01-07,5,4022.82,Telefone,concluido
+1034,188,105,2024-02-05,3,417.65,Loja Física,cancelado
+1035,125,108,2024-02-25,2,598.7,Loja Online,processando
+1036,186,101,2024-01-07,5,1571.14,Loja Física,cancelado
+1037,27,109,2024-02-17,2,3425.51,Loja Online,concluido
+1038,76,106,2024-01-02,3,727.53,Telefone,cancelado
+1039,8,104,2024-02-10,4,4454.51,Telefone,concluido
+1040,37,102,2024-01-26,4,4275.83,Loja Online,concluido
+1041,25,110,2024-02-06,5,1551.64,Loja Física,concluido
+1042,106,109,2024-01-18,1,223.59,Loja Online,concluido
+1043,175,101,2024-02-03,1,2139.41,Loja Online,cancelado
+1044,191,105,2024-01-19,1,4456.29,Loja Física,processando
+1045,35,103,2024-02-05,1,4527.12,Loja Online,concluido
+1046,69,106,2024-01-31,5,2869.81,Telefone,concluido
+1047,167,110,2024-02-10,3,3780.88,Telefone,processando
+1048,131,107,2024-01-05,1,766.13,Loja Física,cancelado
+1049,14,102,2024-02-19,1,3277.75,Telefone,processando
+1050,88,110,2024-02-04,2,2455.83,Telefone,processando
+1051,110,106,2024-02-12,3,4376.51,Telefone,concluido
+1052,58,103,2024-01-11,5,945.24,Loja Online,cancelado
+1053,28,102,2024-01-04,2,3067.62,Loja Física,concluido
+1054,160,101,2024-01-30,3,2909.95,Telefone,processando
+1055,38,107,2024-02-22,3,4951.44,Telefone,concluido
+1056,195,109,2024-02-26,5,2874.7,Loja Online,processando
+1057,62,106,2024-01-10,1,3343.87,Loja Física,cancelado
+1058,159,104,2024-01-11,3,3991.63,Loja Física,processando
+1059,62,109,2024-01-09,3,2418.01,Loja Física,concluido
+1060,44,110,2024-01-09,4,2933.02,Loja Online,cancelado
+1061,177,110,2024-01-17,1,4748.7,Loja Física,concluido
+1062,108,103,2024-01-23,1,3951.29,Loja Online,concluido
+1063,153,106,2024-01-02,3,2547.01,Loja Física,cancelado
+1064,77,104,2024-01-24,3,3675.67,Loja Física,processando
+1065,175,108,2024-02-21,3,3461.52,Loja Física,processando
+1066,174,107,2024-02-20,4,2018.43,Telefone,concluido
+1067,38,104,2024-02-17,1,1746.98,Loja Física,cancelado
+1068,12,107,2024-02-20,1,4463.6,Loja Online,processando
+1069,172,108,2024-02-18,3,2570.01,Telefone,concluido
+1070,130,109,2024-01-28,4,463.64,Loja Física,cancelado
+1071,55,101,2024-01-15,2,2762.44,Telefone,cancelado
+1072,95,101,2024-01-09,2,2313.83,Loja Física,cancelado
+1073,57,110,2024-02-02,5,1324.57,Telefone,processando
+1074,109,109,2024-02-27,3,1755.34,Loja Online,processando
+1075,166,110,2024-01-01,1,2786.38,Telefone,concluido
+1076,27,102,2024-01-04,4,620.09,Telefone,concluido
+1077,195,110,2024-02-20,5,3853.86,Loja Física,concluido
+1078,6,103,2024-02-14,4,4369.59,Loja Online,concluido
+1079,165,103,2024-01-07,2,4516.29,Loja Física,cancelado
+1080,95,102,2024-01-23,1,4096.2,Loja Física,concluido
+1081,127,110,2024-02-12,1,3096.98,Telefone,processando
+1082,108,110,2024-02-28,1,2728.3,Loja Online,cancelado
+1083,4,101,2024-01-24,1,1068.79,Telefone,processando
+1084,121,108,2024-02-26,1,4577.46,Loja Física,cancelado
+1085,194,107,2024-01-25,3,1555.81,Telefone,processando
+1086,145,109,2024-02-26,5,2491.99,Telefone,processando
+1087,117,110,2024-01-16,1,1042.12,Loja Online,concluido
+1088,30,110,2024-02-12,2,590.82,Loja Física,concluido
+1089,183,108,2024-03-01,2,1363.73,Loja Online,concluido
+1090,70,104,2024-02-24,3,719.36,Loja Online,cancelado
+1091,85,107,2024-01-07,2,1189.81,Loja Online,processando
+1092,18,104,2024-02-21,4,3983.94,Loja Online,cancelado
+1093,178,104,2024-02-27,2,4361.27,Loja Online,processando
+1094,121,107,2024-01-08,5,3686.59,Telefone,cancelado
+1095,102,102,2024-02-15,1,2031.93,Loja Física,processando
+1096,17,102,2024-02-03,2,4958.34,Loja Física,processando
+1097,63,108,2024-01-13,4,4384.81,Loja Online,cancelado
+1098,137,105,2024-01-26,1,2637.02,Telefone,cancelado
+1099,190,107,2024-01-24,4,4297.11,Loja Online,processando
+1100,81,104,2024-02-07,5,4508.98,Loja Online,processando
+1101,108,106,2024-02-28,2,945.95,Telefone,concluido
+1102,169,103,2024-02-08,2,4757.88,Telefone,processando
+1103,171,101,2024-02-14,1,1990.74,Loja Física,cancelado
+1104,72,109,2024-02-02,2,2100.36,Loja Física,processando
+1105,97,108,2024-02-12,4,3882.43,Loja Física,concluido
+1106,48,108,2024-01-10,2,1465.55,Loja Online,processando
+1107,78,103,2024-02-01,1,2799.07,Loja Física,processando
+1108,179,101,2024-03-01,4,4289.68,Loja Física,cancelado
+1109,80,105,2024-01-08,1,1338.62,Loja Física,cancelado
+1110,153,108,2024-01-27,2,4876.11,Loja Online,processando
+1111,131,105,2024-02-18,5,206.56,Loja Online,processando
+1112,125,105,2024-01-06,4,4902.49,Loja Física,concluido
+1113,91,103,2024-01-24,1,1597.28,Loja Física,concluido
+1114,146,103,2024-02-04,2,1510.18,Loja Física,processando
+1115,165,110,2024-01-06,2,968.95,Loja Online,processando
+1116,104,102,2024-01-13,5,842.99,Loja Online,processando
+1117,104,109,2024-02-28,2,4154.59,Loja Física,concluido
+1118,47,108,2024-02-12,1,4889.48,Loja Online,cancelado
+1119,112,108,2024-02-16,2,2700.65,Loja Online,concluido
+1120,29,103,2024-02-25,1,2539.47,Loja Física,cancelado
+1121,185,105,2024-02-24,2,720.8,Telefone,processando
+1122,96,105,2024-01-29,5,2704.28,Loja Física,concluido
+1123,89,107,2024-02-01,2,3529.72,Loja Online,concluido
+1124,167,107,2024-01-29,4,4776.58,Loja Física,processando
+1125,81,106,2024-01-17,1,2251.38,Loja Online,cancelado
+1126,60,103,2024-02-17,3,3629.18,Loja Online,cancelado
+1127,106,109,2024-02-05,5,1748.27,Loja Física,cancelado
+1128,126,106,2024-01-26,1,968.59,Loja Física,processando
+1129,194,107,2024-02-28,2,3642.61,Loja Física,cancelado
+1130,180,108,2024-01-20,1,4554.83,Loja Online,concluido
+1131,169,105,2024-01-08,4,2345.65,Loja Online,processando
+1132,134,103,2024-01-10,3,3036.37,Loja Física,concluido
+1133,179,110,2024-02-11,2,3073.09,Telefone,concluido
+1134,60,104,2024-01-01,5,1109.93,Loja Online,cancelado
+1135,95,103,2024-01-14,3,2834.6,Telefone,processando
+1136,11,103,2024-02-20,5,2439.32,Loja Online,processando
+1137,113,104,2024-01-21,2,944.09,Telefone,processando
+1138,37,104,2024-01-09,3,2930.61,Loja Online,concluido
+1139,87,104,2024-01-18,3,3979.99,Loja Online,cancelado
+1140,84,102,2024-01-04,5,3476.63,Telefone,concluido
+1141,196,110,2024-02-22,1,2841.58,Telefone,processando
+1142,124,110,2024-01-30,2,3826.78,Telefone,cancelado
+1143,170,103,2024-01-06,5,480.35,Loja Física,processando
+1144,5,107,2024-01-11,3,1280.07,Loja Física,concluido
+1145,40,109,2024-02-11,2,2800.41,Telefone,cancelado
+1146,121,101,2024-01-13,1,3804.94,Loja Online,processando
+1147,81,109,2024-01-13,5,2072.28,Loja Online,concluido
+1148,139,103,2024-01-05,5,4589.45,Loja Online,concluido
+1149,53,105,2024-02-18,2,1121.27,Loja Online,concluido
+1150,156,101,2024-01-24,5,1539.09,Telefone,concluido
+1151,193,105,2024-01-02,5,1985.4,Loja Física,processando
+1152,29,101,2024-01-13,1,2374.8,Telefone,processando
+1153,175,105,2024-01-30,3,2851.41,Loja Física,concluido
+1154,71,104,2024-01-12,1,4706.09,Loja Online,processando
+1155,66,107,2024-01-14,2,1084.46,Loja Física,processando
+1156,142,101,2024-02-29,2,2391.12,Telefone,cancelado
+1157,114,103,2024-02-04,5,4125.98,Loja Online,processando
+1158,23,106,2024-02-07,4,744.64,Loja Online,processando
+1159,36,108,2024-01-27,1,952.83,Telefone,cancelado
+1160,94,106,2024-02-09,2,2932.92,Telefone,concluido
+1161,155,101,2024-01-20,3,2463.15,Telefone,concluido
+1162,7,107,2024-01-29,5,4013.1,Loja Física,processando
+1163,128,101,2024-02-07,3,789.53,Telefone,cancelado
+1164,166,102,2024-01-29,1,4511.67,Telefone,concluido
+1165,9,102,2024-02-10,4,691.66,Telefone,processando
+1166,94,109,2024-02-10,1,1656.03,Telefone,processando
+1167,48,106,2024-02-19,4,2764.3,Loja Online,cancelado
+1168,185,107,2024-02-18,5,2172.27,Telefone,concluido
+1169,74,106,2024-01-08,1,3928.55,Telefone,concluido
+1170,81,103,2024-02-16,1,817.02,Loja Online,concluido
+1171,152,104,2024-01-14,2,2303.35,Loja Online,processando
+1172,164,106,2024-02-22,1,1228.97,Telefone,processando
+1173,102,105,2024-02-23,1,4640.92,Loja Online,processando
+1174,117,104,2024-01-29,3,2659.29,Loja Física,cancelado
+1175,26,104,2024-02-06,4,263.65,Loja Online,processando
+1176,176,109,2024-02-10,5,4953.73,Loja Online,concluido
+1177,142,104,2024-01-06,4,3060.46,Loja Online,concluido
+1178,32,105,2024-01-29,2,1945.18,Loja Online,processando
+1179,69,108,2024-01-12,5,4766.66,Loja Online,concluido
+1180,101,110,2024-01-13,1,4348.85,Telefone,cancelado
+1181,148,104,2024-01-06,1,1031.17,Loja Online,cancelado
+1182,72,106,2024-01-28,1,4090.88,Loja Física,concluido
+1183,174,101,2024-02-19,2,4846.31,Telefone,concluido
+1184,114,110,2024-01-04,5,600.27,Telefone,cancelado
+1185,191,108,2024-01-26,5,1875.99,Telefone,cancelado
+1186,60,102,2024-02-02,4,241.84,Loja Física,concluido
+1187,158,101,2024-02-17,4,635.67,Telefone,concluido
+1188,101,105,2024-02-14,4,4131.66,Telefone,concluido
+1189,41,106,2024-02-13,1,3459.39,Loja Física,cancelado
+1190,148,109,2024-01-05,1,2763.54,Loja Online,concluido
+1191,157,103,2024-02-21,1,2903.3,Telefone,cancelado
+1192,22,102,2024-01-22,4,1994.97,Loja Física,processando
+1193,151,101,2024-02-09,5,211.69,Telefone,processando
+1194,85,102,2024-02-03,2,3835.79,Telefone,cancelado
+1195,108,108,2024-01-22,4,1063.44,Loja Física,processando
+1196,23,105,2024-02-27,2,2570.12,Loja Online,processando
+1197,110,110,2024-02-17,1,1152.28,Telefone,processando
+1198,18,110,2024-01-19,2,2063.71,Telefone,processando
+1199,48,108,2024-03-01,3,2567.77,Loja Online,cancelado
+1200,150,104,2024-01-16,1,1817.93,Telefone,concluido

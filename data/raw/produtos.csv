@@ -1,0 +1,11 @@
+id,nome,categoria,preco_custo,preco_venda,estoque,data_criacao,categoria_id
+101,Notebook Gamer,Eletrônicos,2500.0,3500.0,15,2023-01-10,1
+102,Smartphone Premium,Eletrônicos,1200.0,2000.0,30,2023-02-15,1
+103,Mesa Escritório,Móveis,300.0,600.0,8,2023-03-20,2
+104,Cadeira Ergonômica,Móveis,400.0,800.0,12,2023-04-25,2
+105,Tablet Android,Eletrônicos,600.0,1000.0,20,2023-05-30,1
+106,"Monitor 24""",Eletrônicos,800.0,1200.0,10,2023-06-05,1
+107,Teclado Mecânico,Eletrônicos,200.0,350.0,25,2023-07-10,1
+108,Mouse Sem Fio,Eletrônicos,80.0,150.0,40,2023-08-15,1
+109,Headphone Bluetooth,Eletrônicos,250.0,450.0,18,2023-09-20,1
+110,Webcam HD,Eletrônicos,150.0,280.0,22,2023-10-25,1
