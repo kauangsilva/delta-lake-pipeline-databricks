@@ -4,7 +4,7 @@ Projeto profissional de engenharia de dados implementando um pipeline ELT comple
 
 ## 🎥 Vídeo Demonstrativo  
 Para ver todo o processo do projeto em ação, assista ao vídeo explicativo:  
-👉 [Clique aqui para assistir ao vídeo no youtube](https://www.youtube.com/watch?v=GXAscrgeP4c) 
+👉 [Clique aqui para assistir ao vídeo no youtube](https://www.youtube.com/watch?v=Ryu0ri_XC_M) 
 
 
 ## 🏗️ Arquitetura Medallion
