@@ -8,7 +8,7 @@ Para ver todo o processo do projeto em ação, assista ao vídeo explicativo:
 
 ## 📊 Dashboard Analítico no Power BI  
 Os dados processados neste pipeline foram utilizados para criar um **dashboard interativo de vendas no Power BI**, com foco em **análises de faturamento, ticket médio, canais de venda e desempenho por vendedor**.  
-👉 [Acesse o Dashboard Power BI aqui](https://link-do-dashboard-powerbi.com)  
+👉 [Acesse o Dashboard Power BI aqui](https://github.com/kauangsilva/delta-lake-powerbi-dashboard)  
 
 O dashboard foi desenvolvido a partir dos **dados da camada Gold (Business)** deste projeto, exportados em formato **Parquet particionado**, garantindo alta performance nas consultas e visualizações.
 
